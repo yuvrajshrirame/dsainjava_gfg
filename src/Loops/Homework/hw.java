@@ -11,10 +11,6 @@ public class hw {
         for (int i = 1; i <= n; i++){
             System.out.println(i);
             System.out.println(n+1-i);
-//            for (int j = n; j >= n-i; j--){
-//                System.out.println(j);
-//
-//            }
         }
     }
 }
